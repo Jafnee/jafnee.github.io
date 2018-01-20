@@ -13,7 +13,7 @@
           target="_blank"
           class="button--gh">GitHub</a>
         <a
-          href="https://nuxtjs.org/"
+          href="https://www.linkedin.com/in/jafnee/"
           target="_blank"
           class="button--li">LinkedIn</a>
         <a
